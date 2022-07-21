@@ -1,43 +1,4 @@
 <app-nav></app-nav>
 <app-carousel></app-carousel>
-<h1>hello {{title}}</h1>
-
-<h3>{{random_number}} my name is {{name}}</h3>
-
-<img src="assets/mobile.jpg"  height="100px" width="100px">
-<img [src] ="image" alt="sss" height="100px" width="100px"/>
-
-<br>
-<!--event binding-->
-<button (click)="onclick()">event binding</button>
-<br><br>
-<button (click)="onclick1()">event binding</button>
-
-<!--2 way binding-->
-<!--ngModel directive-->
-<input [(ngModel)]="random_number" type="text">
-<br>
-<br>
-<br>
-<h4>{{random_number}}</h4>
-
-<!--ngfor-->
-<ul>
-    <li *ngFor="let course of courses">
-        {{course.courseid}} - {{course.coursename}}
-    </li>
-</ul>
-<br>
-<br>
-
-<!--ngstyle-->
-<input [(ngModel)]="mycolor" type="text"/>
-<div [ngStyle]="{'color':mycolor}">change the color</div>
-
-<br>
-
-<div [ngClass]="cssprop">hello</div>
 <app-footer></app-footer>
-
-
 <router-outlet></router-outlet>
