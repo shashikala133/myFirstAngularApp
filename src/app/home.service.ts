@@ -15,13 +15,13 @@ export class HomeService {
           "zipcode": "12926-3874"
         },
         "id": 1,
-        "email": "john@gmail.com",
-        "username": "johnd",
+        "email": "anandn@gmail.com",
+        "username": "anand",
         "password": "m38rmF$",
         "image":"https://icon-library.com/images/user-account-icon/user-account-icon-19.jpg",
         "name": {
-          "firstname": "john",
-          "lastname": "doe"
+          "firstname": "anand",
+          "lastname": "sharma"
         },
         "phone": "1-570-236-7033",
         
@@ -35,13 +35,13 @@ export class HomeService {
           "zipcode": "12926-3874"
         },
         "id": 2,
-        "email": "morrison@gmail.com",
-        "username": "mor_2314",
+        "email": "mahesh@gmail.com",
+        "username": "mahesh_2314",
         "password": "83r5^_",
         "image":"https://icon-library.com/images/user-account-icon/user-account-icon-19.jpg",
         "name": {
-          "firstname": "david",
-          "lastname": "morrison"
+          "firstname": "mahesh",
+          "lastname": "Krishna"
         },
         "phone": "1-570-236-7033",
        
@@ -55,13 +55,13 @@ export class HomeService {
           "zipcode": "29567-1452"
         },
         "id": 3,
-        "email": "kevin@gmail.com",
-        "username": "kevinryan",
+        "email": "suraj@gmail.com",
+        "username": "surajryan",
         "password": "kev02937@",
         "image":"https://icon-library.com/images/user-account-icon/user-account-icon-19.jpg",
         "name": {
-          "firstname": "kevin",
-          "lastname": "ryan"
+          "firstname": "suraj",
+          "lastname": "varma"
         },
         "phone": "1-567-094-1345",
        
@@ -75,13 +75,13 @@ export class HomeService {
           "zipcode": "98234-1734"
         },
         "id": 4,
-        "email": "don@gmail.com",
-        "username": "donero",
+        "email": "dhyan@gmail.com",
+        "username": "dhyan",
         "password": "ewedon",
         "image":"https://icon-library.com/images/user-account-icon/user-account-icon-19.jpg",
         "name": {
-          "firstname": "don",
-          "lastname": "romer"
+          "firstname": "dhyan",
+          "lastname": "chand"
         },
         "phone": "1-765-789-6734",
        
@@ -95,13 +95,13 @@ export class HomeService {
           "zipcode": "80796-1234"
         },
         "id": 5,
-        "email": "derek@gmail.com",
-        "username": "derek",
+        "email": "anusha@gmail.com",
+        "username": "anusha",
         "password": "jklg*_56",
         "image":"https://icon-library.com/images/user-account-icon/user-account-icon-19.jpg",
         "name": {
-          "firstname": "derek",
-          "lastname": "powell"
+          "firstname": "anusha",
+          "lastname": "rao"
         },
         "phone": "1-956-001-1945",
        
@@ -115,13 +115,13 @@ export class HomeService {
           "zipcode": "12346-0456"
         },
         "id": 6,
-        "email": "david_r@gmail.com",
-        "username": "david_r",
+        "email": "vihan@gmail.com",
+        "username": "vihand_r",
         "password": "3478*#54",
         "image":"https://icon-library.com/images/user-account-icon/user-account-icon-19.jpg",
         "name": {
-          "firstname": "david",
-          "lastname": "russell"
+          "firstname": "vihan",
+          "lastname": "gawda"
         },
         "phone": "1-678-345-9856",
       
@@ -135,13 +135,13 @@ export class HomeService {
           "zipcode": "96378-0245"
         },
         "id": 7,
-        "email": "miriam@gmail.com",
-        "username": "snyder",
+        "email": "michel@gmail.com",
+        "username": "michel",
         "password": "f238&@*$",
         "image":"https://icon-library.com/images/user-account-icon/user-account-icon-19.jpg",
         "name": {
-          "firstname": "miriam",
-          "lastname": "snyder"
+          "firstname": "michel",
+          "lastname": "obama"
         },
         "phone": "1-123-943-0563",
        
@@ -155,13 +155,13 @@ export class HomeService {
           "zipcode": "96378-0245"
         },
         "id": 8,
-        "email": "william@gmail.com",
-        "username": "hopkins",
+        "email": "jay@gmail.com",
+        "username": "jay",
         "password": "William56$hj",
         "image":"https://icon-library.com/images/user-account-icon/user-account-icon-19.jpg",
         "name": {
-          "firstname": "william",
-          "lastname": "hopkins"
+          "firstname": "jay",
+          "lastname": "shetty"
         },
         "phone": "1-478-001-0890",
        
@@ -175,13 +175,13 @@ export class HomeService {
           "zipcode": "96378-0245"
         },
         "id": 9,
-        "email": "kate@gmail.com",
-        "username": "kate_h",
+        "email": "hitesh@gmail.com",
+        "username": "hitesh_h",
         "password": "kfejk@*_",
         "image":"https://icon-library.com/images/user-account-icon/user-account-icon-19.jpg",
         "name": {
-          "firstname": "kate",
-          "lastname": "hale"
+          "firstname": "hitesh",
+          "lastname": "chowdary"
         },
         "phone": "1-678-456-1934",
        
@@ -195,13 +195,13 @@ export class HomeService {
           "zipcode": "10256-4532"
         },
         "id": 10,
-        "email": "jimmie@gmail.com",
-        "username": "jimmie_k",
+        "email": "akshay@gmail.com",
+        "username": "akshay_s",
         "password": "klein*#%*",
         "image":"https://icon-library.com/images/user-account-icon/user-account-icon-19.jpg",
         "name": {
-          "firstname": "jimmie",
-          "lastname": "klein"
+          "firstname": "akshay",
+          "lastname": "saini"
         },
         "phone": "1-104-001-4567",
        

@@ -1,10 +1,10 @@
 [
     {
     "id": 1,
-    "name": "DOTNET",
-    "description": "DOTNET FULL STACK",
+    "name": "Golang",
+    "description": "Golang full stack",
     "role":"Software Developer",
-    "img": "https://th.bing.com/th/id/OIP._w4kEUAb7-YMEOc46aFcWQHaHD?w=171&h=180&c=7&r=0&o=5&dpr=1.56&pid=1.7"
+    "img": "https://www.edureka.co/blog/wp-content/uploads/2018/09/Golang-Logo-Golang-Tutorial-Edureka.jpg"
     },
     {
     "id": 2,
@@ -15,17 +15,17 @@
     },
     {
     "id": 3,
-    "name": "PHP",
-    "description": "PHP WITH LARAVEL",
+    "name": "Carbon",
+    "description": "Carbon",
     "role":"Software Developer",
-    "img":"https://dash.ps/wp-content/uploads/2020/08/php-framework-laravel-768x341.jpg"
+    "img":"https://cdn.jsdelivr.net/gh/b0xt/sobyte-images1/2022/07/20/6110e3c577804005a67c7e36156a1634.png"
     },
     {
       "id": 4,
-      "name": "DOTNET",
-      "description": "DOTNET Backend",
+      "name": "Ruby",
+      "description": "Ruby Backend",
       "role":"Backend Developer",
-      "img": "https://th.bing.com/th/id/OIP._w4kEUAb7-YMEOc46aFcWQHaHD?w=171&h=180&c=7&r=0&o=5&dpr=1.56&pid=1.7"
+      "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png"
       },
       {
       "id": 5,
@@ -36,10 +36,10 @@
       },
       {
       "id": 6,
-      "name": "PHP",
-      "description": "PHP WITH LARAVEL Backend",
+      "name": "raspberry-pi",
+      "description": "raspberry-pi",
       "role":"Backend Developer",
-      "img":"https://dash.ps/wp-content/uploads/2020/08/php-framework-laravel-768x341.jpg"
+      "img":"https://www.aranacorp.com/wp-content/uploads/raspberry-pi-logo.jpg"
       },
       {
         "id": 7,
