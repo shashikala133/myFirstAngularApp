@@ -9,7 +9,7 @@ export class HomeService {
     return [
       {
         "address":{
-          "city": "kilcoole",
+          "city": "Mangalore",
           "street": "new road",
           "number": 7682,
           "zipcode": "12926-3874"
@@ -23,13 +23,13 @@ export class HomeService {
           "firstname": "anand",
           "lastname": "sharma"
         },
-        "phone": "1-570-236-7033",
+        "phone": "9967352244",
         
       },
       {
         "address": {
         
-          "city": "kilcoole",
+          "city": "Bangalore",
           "street": "Lovers Ln",
           "number": 7267,
           "zipcode": "12926-3874"
@@ -43,13 +43,13 @@ export class HomeService {
           "firstname": "mahesh",
           "lastname": "Krishna"
         },
-        "phone": "1-570-236-7033",
+        "phone": "9837363635",
        
       },
       {
         "address": {
        
-          "city": "Cullman",
+          "city": "Chennai",
           "street": "Frances Ct",
           "number": 86,
           "zipcode": "29567-1452"
@@ -63,13 +63,13 @@ export class HomeService {
           "firstname": "suraj",
           "lastname": "varma"
         },
-        "phone": "1-567-094-1345",
+        "phone": "9388373635",
        
       },
       {
         "address": {
         
-          "city": "San Antonio",
+          "city": "Delhi",
           "street": "Hunters Creek Dr",
           "number": 6454,
           "zipcode": "98234-1734"
@@ -83,13 +83,13 @@ export class HomeService {
           "firstname": "dhyan",
           "lastname": "chand"
         },
-        "phone": "1-765-789-6734",
+        "phone": "8765334422",
        
       },
       {
         "address": {
    
-          "city": "san Antonio",
+          "city": "Mysore",
           "street": "adams St",
           "number": 245,
           "zipcode": "80796-1234"
@@ -103,13 +103,13 @@ export class HomeService {
           "firstname": "anusha",
           "lastname": "rao"
         },
-        "phone": "1-956-001-1945",
+        "phone": "7854323322",
        
       },
       {
         "address": {
   
-          "city": "el paso",
+          "city": "rajastan",
           "street": "prospect st",
           "number": 124,
           "zipcode": "12346-0456"
@@ -123,13 +123,13 @@ export class HomeService {
           "firstname": "vihan",
           "lastname": "gawda"
         },
-        "phone": "1-678-345-9856",
+        "phone": "9834223311",
       
       },
       {
         "address": {
   
-          "city": "fresno",
+          "city": "udupi",
           "street": "saddle st",
           "number": 1342,
           "zipcode": "96378-0245"
@@ -143,7 +143,7 @@ export class HomeService {
           "firstname": "michel",
           "lastname": "obama"
         },
-        "phone": "1-123-943-0563",
+        "phone": "87334422255",
        
       },
       {
@@ -163,7 +163,7 @@ export class HomeService {
           "firstname": "jay",
           "lastname": "shetty"
         },
-        "phone": "1-478-001-0890",
+        "phone": "9833312222",
        
       },
       {
@@ -183,7 +183,7 @@ export class HomeService {
           "firstname": "hitesh",
           "lastname": "chowdary"
         },
-        "phone": "1-678-456-1934",
+        "phone": "98111133322",
        
       },
       {
@@ -203,7 +203,7 @@ export class HomeService {
           "firstname": "akshay",
           "lastname": "saini"
         },
-        "phone": "1-104-001-4567",
+        "phone": "9833443344",
        
       },
       
